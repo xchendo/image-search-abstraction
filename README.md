@@ -1,1 +1,1 @@
-# image-search-abstraction
+# Backend Challenges boilerplate - package.json
